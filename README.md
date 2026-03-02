@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=7C6FF7&center=true&vCenter=true&width=600&lines=🤖+FastAPI+%2B+Ollama+Chatbot;Real-time+AI+Streaming;Multi-turn+Memory+%7C+WebSocket" />
+
 
 <p align="center">
   <strong>An intermediate-level AI chatbot with real-time streaming, session memory, and a stunning browser UI — running entirely on your local machine.</strong>
