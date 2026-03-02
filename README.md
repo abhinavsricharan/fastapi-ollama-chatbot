@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <strong>An intermediate-level AI chatbot with real-time streaming, session memory, and a stunning browser UI — running entirely on your local machine.</strong>
+  <strong>An AI chatbot with real-time streaming, session memory, and a stunning browser UI — running entirely on your local machine.</strong>
 </p>
 
 <p align="center">
